@@ -1,15 +1,15 @@
-var img1;
-
+var img;
 function preload() {
-img1 = loadImage("images/computer3.png")
+  img = loadImage("Scribble.png");
 }
 
-function setup() {
-  createCanvas(1920, 1080);
+function setup () {
+  createCanvas(400, 400);
 }
 
 function draw() {
-  background(0, 0, 0);
-  imageMode(CENTER);
-  image(img1, mouseX, mouseY);
+  background(0);
+  rect (10,10,200,10)
+  fill (3,85,3)
+  image(img,mouseX,mouseY)
 }
