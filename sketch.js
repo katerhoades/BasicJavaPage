@@ -5,7 +5,7 @@ img1 = loadImage("images/computer3.png")
 }
 
 function setup() {
-  createCanvas(2000, 1100);
+  createCanvas(1920, 1080);
 }
 
 function draw() {
