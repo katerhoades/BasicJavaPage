@@ -1,8 +1,6 @@
-<h2 id="A_Hello_world!_example">A "Hello world!" example</h2>
 
-<p>The above section might sound really exciting, and so it should — JavaScript is one of the most lively web technologies today, and as you start to get good at using it, your websites will enter a new dimension of power and creativity.</p>
 
-<p>However, becoming comfortable with JavaScript is a little harder than becoming comfortable with HTML and CSS. You may have to start small and keep working in small consistent steps. To start, we'll show how to add some basic JavaScript to your page, creating a <em>"Hello world!"</em> example (<a class="external" href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program" rel="noopener">the standard in basic programming examples</a>).</p>
+<p>Becoming comfortable with JavaScript is a little harder than becoming comfortable with HTML and CSS. You may have to start small and keep working in small consistent steps. To start, we'll show how to add some basic JavaScript to your page, creating a <em>"Hello world!"</em> example (<a class="external" href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program" rel="noopener">the standard in basic programming examples</a>).</p>
 
 <div class="warning">
 <p><strong>Important</strong>: If you haven't been following along with the rest of our course, <a class="external" href="https://github.com/mdn/beginner-html-site-styled/archive/gh-pages.zip" rel="noopener">download this example code</a> and use it as a starting point.</p>
