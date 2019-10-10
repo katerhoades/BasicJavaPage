@@ -1,6 +1,6 @@
 var img;
 function preload() {
-  img = loadImage("Scribble.png"); 
+  img = loadImage("images/Scribble.png"); 
 }
 
 function setup () {  
