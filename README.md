@@ -2,9 +2,7 @@
 
 <p>Becoming comfortable with JavaScript is a little harder than becoming comfortable with HTML and CSS. You may have to start small and keep working in small consistent steps. To start, we'll show how to add some basic JavaScript to your page, creating a <em>"Hello world!"</em> example (<a class="external" href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program" rel="noopener">the standard in basic programming examples</a>).</p>
 
-<div class="warning">
-<p><strong>Important</strong>: If you haven't been following along with the rest of our course, <a class="external" href="https://github.com/mdn/beginner-html-site-styled/archive/gh-pages.zip" rel="noopener">download this example code</a> and use it as a starting point.</p>
-</div>
+
 
 <ol>
  <li>First, go to your test site and create a new folder named <code>scripts</code>. Then, within the new scripts folder you just created, create a new file called <code>main.js</code>. Save it in your <code>scripts</code> folder.</li>
@@ -16,5 +14,4 @@
   <pre class="brush: js">let myHeading = document.querySelector('h1');
 myHeading.textContent = 'Hello world!';</pre>
  </li>
- <li>Finally, make sure the HTML and JavaScript files are saved, then load <code>index.html</code> in the browser. You should see something like the following:<img alt="" src="https://mdn.mozillademos.org/files/9543/hello-world.png" style="display: block; height: 236px; margin: 0px auto; width: 806px;"></li>
-</ol>
+ <li>Finally, make sure the HTML and JavaScript files are saved, then load <code>index.html</code> in the browser. 
