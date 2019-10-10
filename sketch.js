@@ -8,8 +8,8 @@ function setup () {
 }
 
 function draw() {
-  background(100,0,10);
+  background(50,50,100);
   rect (10,10,200,10)
-  fill (3,85,3)
+  fill (20,15,60)
   image(img,mouseX,mouseY)
 }
