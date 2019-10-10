@@ -1,7 +1,8 @@
 
 # How to add your p5 Javascript to a webpage
 
-1. Make a new file in your github repository titled sketch.js
+1. Make a new file in your github repository titled sketch.js 
+  ***You can title it whatever you want as long as the filename ends with .js***
 
 2. Paste your p5 code into this page and commit changes
 
