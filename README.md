@@ -6,7 +6,7 @@
 
 2. Paste your p5 code into this page and commit changes
 
-3. Go to an HTML file in your repository (remember, this has to be either a page connected to the [portfolio site](https://github.com/katerhoades/GithubSetup/blob/master/README.md) you made, or a page that has been published with [github pages](https://github.com/katerhoades/NetartSetup)) where you would like your p5 sketch to appear and paste this code:
+3. Open an HTML file in your repository (remember, this has to be either a page connected to the [portfolio site](https://github.com/katerhoades/GithubSetup/blob/master/README.md) you made, or a page that has been published with [github pages](https://github.com/katerhoades/NetartSetup)) where you would like your p5 sketch to appear and paste this code:
 
           <html>
           <head>
