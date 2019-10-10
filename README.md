@@ -16,7 +16,7 @@
           </body>
           </html>
 
-4. The update might take a little while to load.
+4. The update might take a little while to load, but you should soon be able to see it!
 
 <br>
 
